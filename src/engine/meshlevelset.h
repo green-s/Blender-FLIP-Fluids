@@ -58,6 +58,8 @@ USE OR OTHER DEALINGS IN THE SOFTWARE.
     #include <thread>
 #endif
 
+#include <algorithm>
+
 #include "macvelocityfield.h"
 #include "trianglemesh.h"
 #include "fragmentedvector.h"

@@ -25,6 +25,7 @@ SOFTWARE.
 #ifndef FLUIDENGINE_PARTICLEMESHER_H
 #define FLUIDENGINE_PARTICLEMESHER_H
 
+#include <algorithm>
 #include <vector>
 
 #include "vmath.h"

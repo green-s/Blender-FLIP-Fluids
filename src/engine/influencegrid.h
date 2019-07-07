@@ -25,6 +25,8 @@ SOFTWARE.
 #ifndef FLUIDENGINE_INFLUENCEGRID_H
 #define FLUIDENGINE_INFLUENCEGRID_H
 
+#include <algorithm>
+
 #include "array3d.h"
 
 class MeshLevelSet;

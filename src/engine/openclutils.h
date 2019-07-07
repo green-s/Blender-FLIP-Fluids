@@ -25,6 +25,7 @@ SOFTWARE.
 #ifndef FLUIDENGINE_OPENCLUTILS_H
 #define FLUIDENGINE_OPENCLUTILS_H
 
+#include <algorithm>
 #include <vector>
 
 #include "opencl_bindings/clcpp.h"

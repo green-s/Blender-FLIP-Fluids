@@ -34,6 +34,8 @@ SOFTWARE.
 #ifndef FLUIDENGINE_PRESSURESOLVER_H
 #define FLUIDENGINE_PRESSURESOLVER_H
 
+#include <algorithm>
+
 #include "pcgsolver/sparsematrix.h"
 #include "gridindexkeymap.h"
 #include "gridindexvector.h"

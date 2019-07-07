@@ -52,6 +52,8 @@ USE OR OTHER DEALINGS IN THE SOFTWARE.
 #ifndef FLUIDENGINE_VELOCITYADVECTOR_H
 #define FLUIDENGINE_VELOCITYADVECTOR_H
 
+#include <algorithm>
+
 #include "fragmentedvector.h"
 #include "markerparticle.h"
 #include "array3d.h"

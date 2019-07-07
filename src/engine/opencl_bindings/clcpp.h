@@ -33,6 +33,7 @@ SOFTWARE.
     #endif
 #endif
 
+#include <algorithm>
 #include <vector>
 #include <string>
 
